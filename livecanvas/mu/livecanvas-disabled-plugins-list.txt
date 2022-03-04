@@ -1,0 +1,7 @@
+ewww-image-optimizer/ewww-image-optimizer.php
+litespeed-cache/litespeed-cache.php
+shortpixel-adaptive-images/short-pixel-ai.php
+shortpixel-image-optimiser/wp-shortpixel.php
+wp-rocket/wp-rocket.php
+wp-smushit/wp-smush.php
+autoptimize/autoptimize.php
